@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-mt3cob.hsteamhost.xyz/sitemap.xml
